@@ -15,7 +15,7 @@ public class SpringBootJenkinsApplication {
 	}
 
 	public static void main(String[] args) {
-		logger.info("Application executed");
+		logger.info("Application Executed");
 		SpringApplication.run(SpringBootJenkinsApplication.class, args);
 	}
 
